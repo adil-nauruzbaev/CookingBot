@@ -1,4 +1,4 @@
-# CookingBotFF
+# CookingBot
 
 The goal of the project development was to create a simple and effective culinary application based on ChatGPT and visualization neural networks.
 For this purpose, all the features of modern cooking applications and websites were implemented.
